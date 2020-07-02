@@ -1,3 +1,6 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/smoya/syslog-format)](https://goreportcard.com/report/github.com/smoya/syslog-format) 
+![Build](https://github.com/smoya/syslog-format/workflows/Build/badge.svg)
+[![License](https://img.shields.io/static/v1?label=license&message=MIT&color=blueviolet)](./LICENSE)  
 # syslog-format
 A syslog formatter Golang library.
 
