@@ -12,6 +12,9 @@ This library formats syslog messages according the [RFC5424](https://tools.ietf.
 $ go get github.com/smoya/syslog-format
 ```
 
+## Test
+Coverage: https://gocover.io/github.com/smoya/syslog-format
+
 ## TODO
 * Port [syslog](https://golang.org/pkg/log/syslog/) pkg dial functionality and adapt it with this formatter. The [syslog](https://golang.org/pkg/log/syslog/) only supports the RFC3164.
 * Add support for multiple structured data chunks. Right now only supports one, with the name `context@{pid}`.
