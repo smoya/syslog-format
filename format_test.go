@@ -70,6 +70,3 @@ func TestFormatRFC3164(t *testing.T) {
 
 	assert.Equal(t, expectedOutput, string(result))
 }
-
-
-
