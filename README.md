@@ -1,6 +1,11 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/smoya/syslog-format)](https://goreportcard.com/report/github.com/smoya/syslog-format) 
 ![Build](https://github.com/smoya/syslog-format/workflows/Build/badge.svg)
-[![License](https://img.shields.io/static/v1?label=license&message=MIT&color=blueviolet)](./LICENSE)  
+[![License](https://img.shields.io/static/v1?label=license&message=MIT&color=blueviolet)](./LICENSE) 
+
+# Repository archived. No longer actively maintained.
+
+This project is not maintained anymore. I recommend you using https://github.com/influxdata/go-syslog/blob/develop/rfc5424/builder.go instead, which has all the features this library provided plus tons of others. It is also maintained by the InfluxDB engineering team, which ensures continuity on development.
+
 # syslog-format
 A syslog formatter Golang library.
 
